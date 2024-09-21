@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "@circle-fin/developer-controlled-wallets": "^4.4.1",
+    "@circle-fin/smart-contract-platform": "^4.2.1",
+    "@circle-fin/user-controlled-wallets": "^4.4.1",
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
     "@mui/material": "^6.1.1",
